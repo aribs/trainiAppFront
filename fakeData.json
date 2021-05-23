@@ -1,0 +1,55 @@
+{
+    "ads": [
+        {
+            "id": "1",
+            "serviceCaption": "Texto anuncio1",
+            "serviceText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nisi ac libero tempus efficitur. Cras quis neque ligula. Maecenas nisi mi, pellentesque nec sagittis in, gravida vitae risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus a arcu urna. Phasellus faucibus pulvinar elit, id finibus justo ullamcorper et. Morbi porttitor pellentesque arcu vitae feugiat. Proin id neque accumsan, volu",
+            "serviceType": ["cardio", "dieta"],
+            "contacto": {
+                "telf": "666666666",
+                "mail": "mail@mail.com",
+                "webpage": "www.web.com",
+                "adressLocation": "Valencia"
+            },
+            "images": [
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d29ya291dHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d29ya291dHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d29ya291dHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+            ]
+        },
+        {
+            "id": "2",
+            "serviceCaption": "anuncio2",
+            "serviceText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nisi ac libero tempus efficitur. Cras quis neque ligula. Maecenas nisi mi, pellentesque nec sagittis in, gravida vitae risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus a arcu urna. Phasellus faucibus pulvinar elit, id finibus justo ullamcorper et. Morbi porttitor pellentesque arcu vitae feugiat. Proin id neque accumsan, volu",
+            "serviceType": ["tenis", "paddel"],
+            "contacto": {
+                "telf": "666666666",
+                "mail": "mail@mail.com",
+                "webpage": "www.web.com",
+                "adressLocation": "Barcelona"
+            },
+            "images": [
+                "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d29ya291dHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d29ya291dHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d29ya291dHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+            ]
+        },
+        {
+            "id": "3",
+            "serviceCaption": "anuncio3",
+            "serviceText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nisi ac libero tempus efficitur. Cras quis neque ligula. Maecenas nisi mi, pellentesque nec sagittis in, gravida vitae risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus a arcu urna. Phasellus faucibus pulvinar elit, id finibus justo ullamcorper et. Morbi porttitor pellentesque arcu vitae feugiat. Proin id neque accumsan, volu",
+            "serviceType": ["boxeo", "muay thai"],
+            "contacto": {
+                "telf": "666666666",
+                "mail": "mail@mail.com",
+                "webpage": "www.web.com",
+                "adressLocation": "Madrid"
+            },
+            "images": [
+                "https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d29ya291dHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d29ya291dHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d29ya291dHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+            ]
+        }
+    ]
+}
