@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../components/Home.vue'
 import Trainer from '../components/Trainer.vue'
 import Login from '../components/Login.vue'
+import NewAd from '../components/NewAd.vue'
 
 Vue.use(VueRouter)
 
@@ -21,6 +22,11 @@ const routes = [
     path: '/login',
     name: 'Login',
     component: Login
+  },
+  {
+    path: '/new-ad',
+    name: 'NewAd',
+    component: NewAd
   },
   {
     path: '/about',
